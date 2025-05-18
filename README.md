@@ -11,6 +11,3 @@ echo 'deb [signed-by=/usr/share/keyrings/soph-deb.gpg] https://cdn.sophuwu.com/d
 ## Contact
 * Discord: @sophuwu
 * Email: sophie@sophuwu.com
-##
-#  :O e====3
-# / /( . Y . )\ \
